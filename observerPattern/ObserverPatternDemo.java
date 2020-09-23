@@ -1,4 +1,5 @@
 package observerPattern;
+
 @SuppressWarnings( "deprecation")
 public class ObserverPatternDemo {
     

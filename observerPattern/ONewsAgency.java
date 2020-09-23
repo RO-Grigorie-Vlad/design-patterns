@@ -1,6 +1,7 @@
 package observerPattern;
 
 import java.util.Observable;
+
 @SuppressWarnings( "deprecation")
 public class ONewsAgency extends Observable{
 

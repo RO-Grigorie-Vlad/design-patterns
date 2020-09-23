@@ -2,6 +2,7 @@ package observerPattern;
 
 import java.util.Observable;
 import java.util.Observer;
+
 @SuppressWarnings( "deprecation")
 public class ONewsChannel implements Observer {
 
