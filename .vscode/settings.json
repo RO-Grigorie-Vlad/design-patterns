@@ -1,0 +1,11 @@
+{
+    "java.project.referencedLibraries": {
+        "include": [
+            "lib/**/*.jar"
+        ],
+        "exclude": [
+            "lib/junit-4.12.jar",
+            "lib/junit-jupiter-5.7.0.jar"
+        ]
+    }
+}
