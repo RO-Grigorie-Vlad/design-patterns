@@ -1,5 +1,5 @@
 package decoratorPattern;
 
-abstract class Beverage {
+public abstract class Beverage {
     public abstract int cost();
 }
